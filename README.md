@@ -1,4 +1,8 @@
-# ToDoApp
+# ToDoApp 
+
+Built an To_Do_List-Application using Angular with Local Storage.
+
+Used Angular Reactive Forms, Angular Material UI, Angular Routing to build this To_Do-App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
 
